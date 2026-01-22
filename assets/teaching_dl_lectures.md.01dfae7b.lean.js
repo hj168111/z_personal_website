@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a as d}from"./app.c62f2221.js";const f=JSON.parse('{"title":"Lectures & Schedule","description":"","frontmatter":{},"headers":[],"relativePath":"teaching/dl/lectures.md"}'),a={name:"teaching/dl/lectures.md"},s=d("",4),o=[s];function n(i,h,c,l,g,p){return r(),e("div",null,o)}var _=t(a,[["render",n]]);export{f as __pageData,_ as default};

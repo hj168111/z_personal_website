@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,a as n}from"./app.c62f2221.js";const h=JSON.parse('{"title":"Lectures & Handouts","description":"","frontmatter":{},"headers":[],"relativePath":"teaching/convex/lectures.md"}'),a={name:"teaching/convex/lectures.md"},s=n("",4),i=[s];function r(d,o,g,x,f,y){return l(),e("div",null,i)}var p=t(a,[["render",r]]);export{h as __pageData,p as default};
